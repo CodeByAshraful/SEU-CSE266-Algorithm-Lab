@@ -2,7 +2,7 @@
 Algorithm Lab assignments and implementations (Merge Sort, Queue, Prefix/Postfix) – SEU
 # CSE266 Algorithm Lab Assignment
 
-Student: Apon Khan  
+Student: Ashraful Khan  
 ID: 2024100000236  
 Course: CSE266 - Algorithm Lab  
 University: Southeast University (SEU)
